@@ -1,23 +1,20 @@
 # Hi, I'm [Can Ata]! 👋
 
-Welcome to my GitHub profile! I'm a [Your Profession/Interests] based in [Your Location]. I'm passionate about [Your Areas of Interest] and love to code, create, and learn new things.
 
 ## About Me
 
-- [Your Background/Bio]
-- [Your Interests/Hobbies]
-- [Your Achievements/Projects/Contributions]
+
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,js,laravel,mongodb,mysql,nodejs,php,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,laravel,mongodb,mysql,nodejs,php,visualstudio,vscode)](https://skillicons.dev)
 
 ## Projects
 
 Here are some of my notable projects:
 
-- [Project Name 1](link): Brief description of the project and its significance.
-- [Project Name 2](link): Brief description of the project and its significance.
-- [Project Name 3](link): Brief description of the project and its significance.
+- [Url Shortener](https://github.com/canatatekirdagli/UrlShortener): UrlShortener is a web application that provides URL shortening functionality, allowing users to convert long URLs into shorter, more manageable links.
+- [Puzzle Game](https://github.com/canatatekirdagli/Puzzle-Game): Application that turns the uploaded photo into a 4x4 playable puzzle
+- [Internship Tracking System for Universities](https://github.com/canatatekirdagli/Internship-Tracking-System-for-Universities): The Internship Tracking System for Universities is a web application that helps universities manage and track internships for their students.
 
 You can find more of my projects on my GitHub repositories.
 

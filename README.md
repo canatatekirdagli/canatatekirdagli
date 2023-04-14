@@ -1,4 +1,4 @@
-# Hi, I'm [Can Ata]! 👋
+# Hi, I'm Can Ata! 👋
 
 
 ## About Me

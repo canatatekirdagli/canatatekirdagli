@@ -4,7 +4,7 @@
 ## About Me
 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Laravel
+- 🌱 Now, I’m learning Laravel!
 
 
 ## Skills
